@@ -17,6 +17,11 @@
   },
   "homepage": "https://github.com/berkespace/nodespace#readme",
   "devDependencies": {
+    "jasmine": "^4.2.1",
     "tailwindcss": "^3.1.4"
+  },
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19"
   }
 }
