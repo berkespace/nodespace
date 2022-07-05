@@ -4,7 +4,8 @@
 Practicing node.js operations
 
 
-![Logo](https://gitlab.com/berkespace/space-rms/uploads/aa5a8ffca8d0de8ee6478efb1b222380/berke.png)
+
+![berke](https://user-images.githubusercontent.com/40868030/177414306-18eb09d1-eb80-49c5-acb7-591086dec633.png)
 
     
 ## Kullanılan Teknolojiler
