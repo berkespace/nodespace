@@ -10,7 +10,7 @@ Practicing node.js operations
     
 ## Kullanılan Teknolojiler
 
-**İstemci:**  Next.js , TailwindCSS
+**İstemci:**  Node.js , TailwindCSS
 
 **Sunucu:** Node, Express
 
