@@ -1,0 +1,22 @@
+{
+  "name": "nodespace",
+  "version": "1.0.0",
+  "description": "practicing",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/berkespace/nodespace.git"
+  },
+  "author": "Berke Space",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/berkespace/nodespace/issues"
+  },
+  "homepage": "https://github.com/berkespace/nodespace#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.1.4"
+  }
+}
