@@ -11,7 +11,7 @@ function Connect() {
 
     })
 }
-
+Connect();
 
 function Create(name, city) {
     var newCustomer = new Customer({
