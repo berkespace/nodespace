@@ -4,14 +4,15 @@ var Customer = require('./schemas/customers.js')
 
 
 function Connect() {
-    mongoose.connect(url, (error) => {
+    mongoose.connect('mongodb+srv://nodespace:ibu3JyFPLRepqZ0h@cluster0.crbs5.mongodb.net/?retryWrites=true&w=majority', (error) => {
         if (!error) {
             console.log('Connected To The MongoDB')
         }
-
+        else{
+            throw error;
+        }
     })
 }
-Connect();
 
 function Create(name, city) {
     var newCustomer = new Customer({
