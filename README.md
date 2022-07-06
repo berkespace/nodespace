@@ -20,7 +20,7 @@ Practicing node.js operations
 Projeyi klonlayın
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/berkespace/nodespace.git
 ```
 
 Proje dizinine gidin
