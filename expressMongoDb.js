@@ -4,7 +4,7 @@ var Customer = require('./schemas/customers.js')
 
 
 function Connect() {
-    mongoose.connect('mongodb+srv://nodespace:py6VXeSyuuHGvinZ@cluster0.crbs5.mongodb.net/?retryWrites=true&w=majority', (error) => {
+    mongoose.connect(url, (error) => {
         if (!error) {
             console.log('Connected To The MongoDB')
         }
